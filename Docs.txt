@@ -1,4 +1,0 @@
-Pythonanywhere:
-username: peroshi
-email: muyetwakas@gmail.com
-password: Perochie252681
